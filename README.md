@@ -1,3 +1,16 @@
 # Project_NSC
 
-Joe ngud
+Project meant for a competition in thailand called NSC (National Software Contest)
+
+- This is a test version for the game incase anyone wanna try out the game
+  also keep in mind that I also used some assets from other games so do not share this game
+  until it's fully released or it was scrapped after the comp
+
+
+
+
+
+
+
+
+  Team members: Bank, Kiddy, Jing
